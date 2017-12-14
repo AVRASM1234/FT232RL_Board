@@ -1,0 +1,18 @@
+G04 DipTrace 3.1.0.1*
+G04 Верхняяграфика.gbr*
+%MOIN*%
+G04 #@! TF.FileFunction,Drawing,Top*
+G04 #@! TF.Part,Single*
+%ADD15C,0.001312*%
+%FSLAX26Y26*%
+G04*
+G70*
+G90*
+G75*
+G01*
+G04 TopAssy*
+%LPD*%
+X-612686Y1181412D2*
+D15*
+X-450169D1*
+M02*

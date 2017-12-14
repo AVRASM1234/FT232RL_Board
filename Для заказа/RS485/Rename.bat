@@ -1,0 +1,15 @@
+rename "Нижнийразмер.gbr" "Bottom Dimension.gbr"
+rename "Вехнийразмер.gbr" "Top Dimension.gbr"
+rename "Границыплаты.gbr" "Board Outline.gbr"
+rename "Нижняяграфика.gbr" "Bottom Assy.gbr"
+rename "Нижняямаркировка.gbr" "Bottom Silk.gbr"
+rename "Нижняямаска.gbr" "Bottom Mask.gbr"
+rename "Нижняяп.маска.gbr" "Bottom Paste.gbr"
+rename "Нижний.gbr" "Bottom.gbr"
+rename "Верхний.gbr" "Top.gbr"
+rename "Верхняяп.маска.gbr" "Top Paste.gbr"
+rename "Верхняямаска.gbr" "Top Mask.gbr"
+rename "Верхняямаркировка.gbr" "Top Silk.gbr"
+rename "Верхняяграфика.gbr" "Top Assy.gbr"
+
+pause
